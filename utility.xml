@@ -1,0 +1,308 @@
+﻿<Events>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T18:19:33Z"/>
+      <EventRecordID>163066093</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T18:19:33Z"/>
+      <EventRecordID>163066109</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T18:19:35Z"/>
+      <EventRecordID>163067328</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T18:19:35Z"/>
+      <EventRecordID>163067343</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T18:58:02Z"/>
+      <EventRecordID>165375109</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T18:58:02Z"/>
+      <EventRecordID>165375125</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T18:58:04Z"/>
+      <EventRecordID>165376906</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T18:58:04Z"/>
+      <EventRecordID>165376906</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:01:54Z"/>
+      <EventRecordID>165606921</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:01:54Z"/>
+      <EventRecordID>165606937</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:01:55Z"/>
+      <EventRecordID>165608250</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:01:55Z"/>
+      <EventRecordID>165608250</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:02:11Z"/>
+      <EventRecordID>165623453</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:02:11Z"/>
+      <EventRecordID>165623468</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:02:11Z"/>
+      <EventRecordID>165623953</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:02:11Z"/>
+      <EventRecordID>165623968</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:02:31Z"/>
+      <EventRecordID>165643578</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <Provider Name="IIS AspNetCore Module"/>
+      <EventID>1000</EventID>
+      <Level>0</Level>
+      <Task>0</Task>
+      <Keywords>Keywords</Keywords>
+      <TimeCreated SystemTime="2016-07-16T19:02:31Z"/>
+      <EventRecordID>165643593</EventRecordID>
+      <Channel>Application</Channel>
+      <Computer>RD0003FF781766</Computer>
+      <Security/>
+    </System>
+    <EventData>
+      <Data>Failed to start process with commandline '"%LAUNCHER_PATH%" %LAUNCHER_ARGS%', ErrorCode = '0x80070002'.</Data>
+    </EventData>
+  </Event>
+</Events>
